@@ -1,6 +1,7 @@
 ## Problem Flow Chart
 
-![image](https://user-images.githubusercontent.com/66863370/181904292-223d127e-577e-4c37-90c4-d13c8becc018.png)
+![image](https://user-images.githubusercontent.com/66863370/181909715-e92fb16e-2255-43d4-a65c-2eea3e5026a8.png)
+
 
 ## Data Analysisi using SQL-queries
 
